@@ -40,3 +40,12 @@ This project is great for practicing `useState`, controlled inputs, list renderi
 
 ## 🗂️ Folder Structure
 
+todo-app/
+├── src/
+│ ├── components/
+│ │ └── TodoApp.jsx
+│ ├── styles/
+│ │ └── TodoApp.css
+│ ├── App.js
+│ └── index.js
+└── README.md
